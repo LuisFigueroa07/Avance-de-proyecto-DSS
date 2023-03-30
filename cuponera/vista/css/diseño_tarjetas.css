@@ -1,0 +1,118 @@
+body{
+    background-color: #F1F1F1;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.container {
+  padding: 10px;
+
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #353535;
+  color: white;
+  overflow: hidden; 
+
+}
+
+button {
+  background-color: #FFC300;
+  color: black;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #F0B300;
+}
+.menu-buttons {
+  float: right;
+  text-align: right;
+}
+
+
+
+.lol {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  border: 2px solid #ccc;
+  padding: 10px;
+  background-color: #ccc; 
+  }
+
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .card {
+    margin: 10px;
+    display: block;
+    border: none;
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.3); 
+    color: white;
+    transition: color 0.35s, transform 0.35s, box-shadow 0.35s;
+
+
+  }
+
+  .card:hover {
+    color: black;
+    transition: 0.35s;
+    transform: translateX(-5px);
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.5);
+  }
+
+  .producto-no-disponible {
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+footer ul {
+padding: 0;
+}
+
+footer li {
+list-style: none;
+}
+
+.wrap-footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  column-gap: 5%;
+  margin: 2rem auto;
+  }
+
+.element-footer h5 {
+margin: 1rem 0;
+}
+
+.text-element-footer li {
+line-height: 2;
+}
+
+.link-elements-footer li a {
+color: #FFC300;
+}
+
+.rrss-element-footer ul {
+display: flex;
+flex-flow: wrap;
+}
+
+.rrss-element-footer img {
+width: 35px;
+}
+
+.rrss-element-footer li {
+margin-right: 1rem;
+}

@@ -1,0 +1,63 @@
+body{
+    background-color: #F1F1F1;
+    font-family: 'Montserrat', sans-serif;
+
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+#ROPA{
+    width: 100%;
+    text-align: center;
+}
+#ROPA2{
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+footer{
+    background-color: #AA1B1D;
+    color: white;
+    opacity: 100%;
+}
+#logo{
+    width: 10%;
+    height: auto;
+    display: inline;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0cm;
+}
+#icon{
+    width: 20px;
+}
+#logoin{
+    width: 20%;
+    height: auto;
+    margin-left: 5px;
+}
+#columna{
+    background-color:#FCD9B8 ;
+    border-radius: 3px;
+}
+#somos{
+    width: 100%;
+}
+#columna > p,
+.col-8 > p{
+    text-align: justify;
+}
+#logo2{
+    width: 100%;
+    height: auto;
+    display: inline;
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofertas>
+    <oferta>
+        <idOferta>1</idOferta>
+        <fecha_registro>2023-03-01</fecha_registro>
+        <fecha_vencimiento>2023-03-08</fecha_vencimiento>
+        <precio>20</precio>
+        <descripcion>Descuento de un 30% en pollo </descripcion>
+        <cupones_disponibles>3</cupones_disponibles>
+        <ingresos_totales>8000.87</ingresos_totales>
+        <cargo_por_servicio>5</cargo_por_servicio>
+        <estadoOferta>1</estadoOferta>
+        <idCupones>1</idCupones>
+        <img>pollo.jpg</img>
+
+    </oferta>
+    <oferta>
+        <idOferta>2</idOferta>
+        <fecha_registro>2023-04-01</fecha_registro>
+        <fecha_vencimiento>2023-04-08</fecha_vencimiento>
+        <precio>23</precio>
+        <descripcion>Telefono móvil al 5% de descuento</descripcion>
+        <cupones_disponibles>25</cupones_disponibles>
+        <ingresos_totales>1000</ingresos_totales>
+        <cargo_por_servicio>20</cargo_por_servicio>
+        <estadoOferta>1</estadoOferta>
+        <idCupones>2</idCupones>
+        <img>telefono.jpeg</img>
+
+    </oferta>
+    <oferta>
+        <idOferta>3</idOferta>
+        <fecha_registro>2023-02-16</fecha_registro>
+        <fecha_vencimiento>2023-02-23</fecha_vencimiento>
+        <precio>22</precio>
+        <descripcion>Audifonos 2x1</descripcion>
+        <cupones_disponibles>0</cupones_disponibles>
+        <ingresos_totales>2000</ingresos_totales>
+        <cargo_por_servicio>20</cargo_por_servicio>
+        <estadoOferta>1</estadoOferta>
+        <idCupones>3</idCupones>
+        <img>auri.jpg</img>
+
+    </oferta>
+    <oferta>
+        <idOferta>4</idOferta>
+        <fecha_registro>2023-02-19</fecha_registro>
+        <fecha_vencimiento>2023-02-26</fecha_vencimiento>
+        <precio>40</precio>
+        <descripcion>Discos nuevos al 20% de descuento</descripcion>
+        <cupones_disponibles>40</cupones_disponibles>
+        <ingresos_totales>300.2</ingresos_totales>
+        <cargo_por_servicio>5</cargo_por_servicio>
+        <estadoOferta>2</estadoOferta>
+        <idCupones>6</idCupones>
+        <img>discos.jpg</img>
+
+    </oferta>
+    <oferta>
+        <idOferta>5</idOferta>
+        <fecha_registro>2023-03-08</fecha_registro>
+        <fecha_vencimiento>2023-03-16</fecha_vencimiento>
+        <precio>52</precio>
+        <descripcion>Balde de comida a mitad de precio</descripcion>
+        <cupones_disponibles>300</cupones_disponibles>
+        <ingresos_totales>4973.74</ingresos_totales>
+        <cargo_por_servicio>20</cargo_por_servicio>
+        <estadoOferta>2</estadoOferta>
+        <idCupones>4</idCupones>
+        <img>balde.jpg</img>
+
+    </oferta>
+    <oferta>
+        <idOferta>6</idOferta>
+        <fecha_registro>2023-03-13</fecha_registro>
+        <fecha_vencimiento>2023-03-14</fecha_vencimiento>
+        <precio>80</precio>
+        <descripcion>Descuento del 20% en protogemas</descripcion>
+        <cupones_disponibles>50</cupones_disponibles>
+        <ingresos_totales>4586.85</ingresos_totales>
+        <cargo_por_servicio>20</cargo_por_servicio>
+        <estadoOferta>1</estadoOferta>
+        <idCupones>6</idCupones>
+        <img>proto.webp</img>
+    </oferta>
+</ofertas>
